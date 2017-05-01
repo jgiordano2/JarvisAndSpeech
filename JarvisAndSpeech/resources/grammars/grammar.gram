@@ -1,0 +1,35 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar grammar;
+
+public <syntax>  = (one | two | three| four| five | six | seven | eight | nine | ten | eleven | twelve | thirteen | fourteen | fifteen | sixteen | seventeen | eighteen | nineteen | twenty) 
+                                                          (plus | minus | multiply | division)                          
+                   (one | two | three| four| five | six | seven | eight | nine | ten | eleven | twelve | thirteen | fourteen | fifteen | sixteen | seventeen | eighteen | nineteen | twenty);
+
+public <trolling> = ( hey jarvis main | hey jarvis exit | hey jarvis turn on the tv  );
+public <jarvis> = ( hey jarvis alarm enable | hey jarvis alarm disable |
+hey jarvis locks frontdoor lock | hey jarvis locks backdoor lock | hey jarvis locks garagedoor lock |
+hey jarvis locks frontdoor unlock | hey jarvis locks backdoor unlock | hey jarvis locks garagedoor unlock |
+hey jarvis tv on | hey jarvis tv off | hey jarvis tv sports | hey jarvis tv news | hey jarvis tv netflix |
+hey jarvis tv up | hey jarvis tv down |
+hey jarvis doors left up | hey jarvis doors left down | hey jarvis doors right up |
+hey jarvis doors right down | hey jarvis doors both up | hey jarvis doors both down |
+hey jarvis camera on | hey jarvis camera off |
+hey jarvis camera snapshot | hey jarvis camera display | hey jarvis camera send |
+hey jarvis toaster on | hey jarvis toaster off | hey jarvis toaster low |
+hey jarvis toaster medium | hey jarvis toaster high 
+hey jarvis lights bedroom on | hey jarvis lights bedroom off | hey jarvis lights bathroom on|
+hey jarvis lights bathroom off | hey jarvis lights office on | hey jarvis lights office off |
+hey jarvis lights kitchen on | hey jarvis lights kitchen off | hey jarvis lights basement on | 
+hey jarvis basement off |
+hey jarvis music rock | hey jarvis music rap | hey jarvis music alternative | hey jarvis music classical |
+hey jarvis music on | hey jarvis music off  );
+
+
+
+
+

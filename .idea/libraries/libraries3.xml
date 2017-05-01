@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="libraries3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JarvisAndSpeech/resources/libraries/._voice-dfki-poppy-hsmm-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JarvisAndSpeech/resources/libraries/._voice-dfki-prudence-hsmm-5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JarvisAndSpeech/resources/libraries/._voice-cmu-slt-hsmm-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JarvisAndSpeech/resources/libraries/._sphinx4-data-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JarvisAndSpeech/resources/libraries/._marytts-lang-en-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JarvisAndSpeech/resources/libraries/._voice-dfki-poppy-hsmm-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JarvisAndSpeech/resources/libraries/._voice-cmu-rms-hsmm-5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JarvisAndSpeech/resources/libraries/._marytts-builder-5.2-jar-with-dependencies.jar!/" />
+      <root url="jar://$PROJECT_DIR$/__MACOSX/JarvisAndSpeech/resources/libraries/._sphinx4-core-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
